@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exp_9</string>
+    <string name="save_internal">Save to Internal Storage</string>
+    <string name="save_external">Save to External Storage</string>
+    <string name="load_data">Load Data</string>
+    <string name="enter_data">Enter data</string>
+</resources>

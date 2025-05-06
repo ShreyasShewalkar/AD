@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Expt4</string>
+
+    <string-array name="subjects">
+        <item>Math</item>
+        <item>Science</item>
+        <item>History</item>
+    </string-array>
+</resources>
